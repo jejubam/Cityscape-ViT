@@ -1,2 +1,2 @@
-# Cityscape-ViT
-Cityscape-ViT
+# YOLOv8_Object_Dection
+YOLOv8_Object_Dection
