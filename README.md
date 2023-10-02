@@ -1,2 +1,2 @@
-# YOLOv8_Object_Dection
-YOLOv8_Object_Dection
+# YOLOv8_Object_Detection
+YOLOv8_Object_Detection
